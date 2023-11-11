@@ -16,4 +16,4 @@
 ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-grey?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sirdx&include_all_commits=true&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2")
+![Stats](https://github-readme-stats.vercel.app/api?username=sirdx&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2")
