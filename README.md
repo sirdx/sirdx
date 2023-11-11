@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Sławek! 👋
 
-<!--
-**sirdx/sirdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>I'm a software engineering student from Poland.</strong>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ![Postery](https://github.com/sirdx/Postery)
+- 🌱 I’m currently learning Spring and Jetpack Compose
+- 📫 How to reach me: Discord - rd3v
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/c%23-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
+![NET](https://img.shields.io/badge/%2ENET-grey?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=8E2DE2)
+![Kotlin](https://img.shields.io/badge/kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
+![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=8E2DE2)
+<br>
+![Android](https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
+![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-grey?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sirdx&include_all_commits=true&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2")
