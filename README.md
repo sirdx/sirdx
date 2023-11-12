@@ -1,8 +1,8 @@
 ## Hi there, I'm Sławek! 👋
 
-<strong>I'm a software engineering student from Poland.</strong>
+**I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on ![Postery](https://github.com/sirdx/Postery)
+- 🔭 I’m currently working on [Postery](https://github.com/sirdx/Postery)
 - 🌱 I’m currently learning Spring and Jetpack Compose
 - 📫 How to reach me: Discord - rd3v
 <br>
