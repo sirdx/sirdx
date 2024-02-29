@@ -2,7 +2,7 @@
 
 **I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on Xpenses (Kotlin mobile app)
+- 🔭 I’m currently working on Shopster (Kotlin & ASP.NET)
 - 🌱 I’m currently learning Jetpack Compose and ASP.NET
 - 📫 How to reach me: Discord - rd3v
 <br>
