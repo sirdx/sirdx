@@ -2,7 +2,7 @@
 
 **I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on Red7 (Godot & Socket.IO)
+- 🔭 I’m currently working on Examar (.NET & WPF)
 - 🌱 I’m currently learning Jetpack Compose and ASP.NET
 - 📫 How to reach me: Discord - rd3v
 <br>
