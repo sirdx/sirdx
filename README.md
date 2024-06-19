@@ -2,8 +2,8 @@
 
 **I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on Examar (.NET & WPF)
-- 🌱 I’m currently learning Jetpack Compose and ASP.NET
+- 🔭 I’m currently working on ProjectSIITP (Java Spring)
+- 🌱 I’m currently learning Spring Boot and ASP.NET
 - 📫 How to reach me: Discord - rd3v
 <br>
 
