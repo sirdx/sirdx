@@ -7,7 +7,7 @@
 - 📫 How to reach me: Discord - rd3v
 <br>
 
-![C#](https://img.shields.io/badge/c%23-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
+![C#](https://img.shields.io/badge/c%23-grey?style=for-the-badge&logo=rider&logoColor=white&labelColor=8E2DE2)
 ![NET](https://img.shields.io/badge/%2ENET-grey?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=8E2DE2)
 ![Kotlin](https://img.shields.io/badge/kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=8E2DE2)
