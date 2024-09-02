@@ -2,7 +2,7 @@
 
 **I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on a schoolarship project (ML.NET & Blazor)
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Spring Boot and ASP.NET
 - 📫 How to reach me: Discord - rd3v
 <br>
