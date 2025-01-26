@@ -2,8 +2,8 @@
 
 **I'm a software engineering student from Poland.**
 
-- 🔭 I’m currently working on Red7
-- 🌱 I’m currently learning Spring Boot and ASP.NET
+- 🔭 I’m currently working on Pegasustan
+- 🌱 I’m currently learning NUnit
 - 📫 How to reach me: Discord - rd3v
 <br>
 
