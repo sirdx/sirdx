@@ -3,7 +3,7 @@
 **I'm a software engineering student from Poland.**
 
 - 🔭 I’m currently working on Pegasustan
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Blazor Hybrid
 - 📫 How to reach me: Discord - rd3v
 <br>
 
