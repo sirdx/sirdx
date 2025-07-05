@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Pegasustan
 - 🌱 I’m currently learning Blazor Hybrid
-- 📫 How to reach me: Discord - rd3v
+- 📫 How to reach me: im.slawomir@gmail.com
 <br>
 
 ![C#](https://img.shields.io/badge/c%23-grey?style=for-the-badge&logo=rider&logoColor=white&labelColor=8E2DE2)
